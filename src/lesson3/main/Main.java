@@ -1,11 +1,11 @@
 package lesson3.main;
 
 import lesson3.rainbow.Rainbow;
-
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Input number from 1 to 70:");
 
